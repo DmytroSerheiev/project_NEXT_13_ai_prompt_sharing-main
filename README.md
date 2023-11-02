@@ -27,3 +27,5 @@ In this video, you'll learn:
 
 ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
 Become a Software Engineer. Guaranteed.
+
+npm install bcrypt mongodb mongoose next-auth
